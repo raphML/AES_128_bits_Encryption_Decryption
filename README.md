@@ -21,3 +21,7 @@ Ressources used :
 
 Architecture generated with Quartus : 
 ![Architecture of the Decryption](archDf.png)
+
+
+Ressources used : 
+![Synthsesis of the Encryption](RessourcesD.png)
