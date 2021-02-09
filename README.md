@@ -7,3 +7,10 @@ So the architecture of the final System is the next :
 
 
 # AES encryption
+![Architecture of the Encryption](archE.png)
+
+Architecture generated with Quartus : 
+![Architecture of the Encryption](archEf.png)
+
+Ressources used : 
+![Synthsesis of the Encryption](Ressources.png)
