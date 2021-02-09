@@ -14,3 +14,10 @@ Architecture generated with Quartus :
 
 Ressources used : 
 ![Synthsesis of the Encryption](Ressources.png)
+
+
+# AES decryption
+![Architecture of the Decryption](archD.png)
+
+Architecture generated with Quartus : 
+![Architecture of the Decryption](archDf.png)
